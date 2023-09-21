@@ -10,10 +10,16 @@ body{
 }
 nav{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
-
+nav ul{
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    list-style: none;
+}
 
 
 
