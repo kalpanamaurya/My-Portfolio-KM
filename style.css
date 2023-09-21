@@ -12,6 +12,8 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    height: 80px;
+    background-color: rgb(26, 26, 112);
 }
 nav ul{
     display: flex;
@@ -19,6 +21,7 @@ nav ul{
 }
 nav ul li{
     list-style: none;
+    margin: 0 23px;
 }
 
 
