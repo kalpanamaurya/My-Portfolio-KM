@@ -8,6 +8,11 @@ body{
     background-color:black;
     color: rgb(247, 247, 243);
 }
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 
 
