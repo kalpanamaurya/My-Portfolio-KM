@@ -29,7 +29,17 @@ nav ul li{
 .firstSection{
     display: flex;
     justify-content: space-around;
+    margin: 25px 0;
 }
+.leftSection{
+    background-color: rgb(219, 36, 36);
+    width: 25px;
+}
+
+
+
+
+
 
 
 
