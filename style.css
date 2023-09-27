@@ -23,24 +23,26 @@ nav ul li{
     list-style: none;
     margin: 0 24px;
 }
+
 .left{
     font-size: 1.5rem;
 }
+
 .firstSection{
     display: flex;
     justify-content: space-around;
     margin: 25px 0;
 }
+
 .leftSection{
     background-color: rgb(219, 36, 36);
-    width: 25px;
+    width: 50px;
 }
+
 .rightSection{
     background-color: rgb(219, 36, 36);
     width: 25px;
-
 }
-
 
 
 
